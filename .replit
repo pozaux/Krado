@@ -1,0 +1,3 @@
+run = "nim compile --run main.nim"
+
+entrypoint = "main.nim"
